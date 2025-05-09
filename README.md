@@ -17,4 +17,7 @@ Help an organization to improve employee performance and improve employee retent
 7. How do employee demographics correlate with attrition or retention trends?
 8. Can users explore and filter the dashboard by department, age group, or employment status in real-time?
 
+--Dashboard Inetraction--
+ 
+
 
