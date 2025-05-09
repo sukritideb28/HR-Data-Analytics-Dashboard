@@ -18,6 +18,8 @@ Help an organization to improve employee performance and improve employee retent
 8. Can users explore and filter the dashboard by department, age group, or employment status in real-time?
 
 --Dashboard Inetraction--
+
+ - <a href ="https://github.com/sukritideb28/HR-Data-Analytics-Dashboard/commit/779914a68976e09daee78d1f9c4f8071de8e75a2">View Dashboard</a>
  
 
 
