@@ -8,4 +8,13 @@ Help an organization to improve employee performance and improve employee retent
 
 --Questions KPI'S--
 
-1 .
+1 .What is the current total number of employees?
+2. What is the employee attrition rate over a given period?
+3. How many employees are currently active vs. inactive?
+4. What is the average age of employees?
+5. How are employees distributed across different age groups?
+6. Which departments experience the highest attrition rates?
+7. How do employee demographics correlate with attrition or retention trends?
+8. Can users explore and filter the dashboard by department, age group, or employment status in real-time?
+
+
